@@ -1,0 +1,14 @@
+Berisi tentang Prediksi saham BBCA dengan bekal,
+
+Datasource:
+  https://id.investing.com/equities/bnk-central-as-historical-data
+   Duration: 19/9/2019 - 24/06/2024
+
+Code Language:
+  Python
+
+Methode:
+  Deep Learning (RNN) - LSTM | 2 Hidden Layers
+
+Accuration Score:
+  89%
